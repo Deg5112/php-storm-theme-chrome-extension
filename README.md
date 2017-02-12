@@ -1,7 +1,7 @@
 ##About
 
 I wish that everytime I looked at code, I would not have to re-adjust my eyes from the color theme in php storm to a 
-bright white screen in Github. Now I don't have to.
+bright white screen in Github. Now I don't have to. Thanks to 'StylishThemes' for the base template I went off of.
 
 This is a chrome extension you can set up locally. 
 

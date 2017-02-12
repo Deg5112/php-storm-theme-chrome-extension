@@ -2108,7 +2108,7 @@ var css = "body {"+
 ".form-control{"+
     "background-color: #45494a;"+
 "}"+
-".pl-c1, .pl-s .pl-v {"+
+".pl-s .pl-v {"+
     "color: #cc7832 !important;"+
 "}";
 
