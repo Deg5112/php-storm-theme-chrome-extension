@@ -1493,7 +1493,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Profile */"+
     ""+
     ".border-top {"+
     "    border-color: #304251 !important;"+
@@ -1551,21 +1550,18 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Profile | Contribution */"+
     ""+
     "#contributions-calendar rect[fill='#eeeeee'] {"+
 "    fill: #151f29;"+
 "}"+
 ""+
 ""+
-"/* Profile | Repo Tab */"+
 ""+
 ".profilecols .filter-bar .filter-selected {"+
 "    color: #8485ce;"+
 "}"+
 ""+
 ""+
-"/* Notification */"+
 ""+
 ".list-group-item.navigation-focus {"+
 "    background-color: #151f29;"+
@@ -1586,7 +1582,6 @@ var css = "body {"+
 "}"+
 ""+
 ""+
-"/* Organisation */"+
 ""+
 ".org-name {"+
 "    color: #fff;"+
@@ -1633,7 +1628,6 @@ var css = "body {"+
 "}"+
 ""+
 ""+
-"/* Create Organisation */"+
 ""+
 ".setup-header {"+
 "    text-shadow: none;"+
@@ -1674,7 +1668,6 @@ var css = "body {"+
 "}"+
 ""+
 ""+
-"/* Personal Settings (Global) */"+
 ""+
 ".menu-heading {"+
 "    color: #fff;"+
@@ -1711,7 +1704,6 @@ var css = "body {"+
 "}"+
 ""+
 ""+
-"/* Settings | Security */"+
 ""+
 "li.session-device.session-current,"+
 "li.session-device {"+
@@ -1737,7 +1729,6 @@ var css = "body {"+
 "}"+
 ""+
 ""+
-"/* Settings | Billing */"+
 ""+
 ".billing-section {"+
 "    border-color: #304251;"+
@@ -1800,7 +1791,6 @@ var css = "body {"+
 "}"+
 ""+
 ""+
-"/* Search Results */"+
 ""+
 ".repo-list-item {"+
 "    border-color: #304251;"+
@@ -1844,7 +1834,6 @@ var css = "body {"+
 "}"+
 ""+
 ""+
-"/* Helper */"+
 ""+
 ".timeline-commits .hidden-text-expander .ellipsis-expander {"+
 "    color: #8899a6;"+
@@ -1858,10 +1847,8 @@ var css = "body {"+
 "}"+
 ""+
 ""+
-"/* Experimental | Enchancement */"+
 ""+
 ""+
-"/* Blob Minus */"+
 ""+
 ".blob-num-deletion {"+
 "    background-color: #ef9a9a;"+
@@ -1874,7 +1861,6 @@ var css = "body {"+
 "}"+
 ""+
 ""+
-"/* Blob Plus */"+
 ""+
 ".blob-num-addition {"+
 "    background-color: #a5d6a7;"+
@@ -1885,10 +1871,8 @@ var css = "body {"+
 "}"+
 ""+
 ""+
-"/* End of Experimental */"+
 ""+
 ""+
-"/* GitHub Gists */"+
 ""+
 ".header-logo-wordmark {"+
 "    color: #fff;"+
@@ -1899,7 +1883,6 @@ var css = "body {"+
 "}"+
 ""+
 ""+
-"/* Rework Buttons | Icons */"+
 ""+
 ".ajax-pagination-form .ajax-pagination-btn {"+
 "    color: #9e9e9e;"+
@@ -1939,7 +1922,6 @@ var css = "body {"+
 "}"+
 ""+
 ""+
-"/* Github Pricing */"+
 ""+
 ".shade-gradient {"+
 "    background-image: none;"+
@@ -1971,7 +1953,6 @@ var css = "body {"+
 "}"+
 ""+
 ""+
-"/* GitHub Explore */"+
 ""+
 ".sort-bar {"+
 "    border-color: #304251;"+
@@ -2043,14 +2024,12 @@ var css = "body {"+
 "}"+
 ""+
 ""+
-"/* GitHub Blog */"+
 ""+
 ".blog-title {"+
 "    color: #fff;"+
 "}"+
 ""+
 ""+
-"/* Octotree Addon */"+
 ""+
 ".octotree_github_sidebar {"+
 "    background-color: #1a2632;"+
