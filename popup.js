@@ -2190,6 +2190,22 @@ for(var i = 0; i<spans.length;i++){
     }
 }
 
+var tags = document.getElementsByClassName('pl-ent');
+for(var m = 0; m<tags.length;m++){
+    if(tags[m].previousSibling){
+        var array = tags[m].previousSibling.textContent.split(' ');
+        var length = array.length;
+        if(array[length-1] == "<" || array[length-1] == ">" || array[length-1] == "<!" || array[length-1] == "</"){
+            tags[m].style.color = "#e8bf55";
+        }
+        //after
+        if(tags[m].nextSibling.textContent == '>'){
+            tags[m].style.color = "#e8bf55";
+        }
+    }
+}
+
+
 var plSmis = document.getElementsByClassName('pl-smi');
 for(var n = 0; n<plSmis.length;n++){
     if(plSmis[n].previousSibling && plSmis[n].previousSibling.textContent == "."){
