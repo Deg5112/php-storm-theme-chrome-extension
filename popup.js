@@ -12,14 +12,12 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Class Global */"+
     ""+
     ".lead {"+
     "    color: #929292;"+
     "}"+
     ""+
     ""+
-    "/* Main Site and New User */"+
     ""+
     ".site-header {"+
     "    background-color: #243447;"+
@@ -69,7 +67,7 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Main Site Login */"+
+
     ""+
     ".session-authentication {"+
     "    background-color: #1a2632;"+
@@ -96,7 +94,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Site Wide Global */"+
     ""+
     ".header {"+
     "    background-color: #243447;"+
@@ -202,14 +199,13 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Site Related */"+
     ""+
     ".setup-header {"+
     "    border-color: #304251;"+
     "}"+
     ""+
     ""+
-    "/* Home */"+
+
     ""+
     ".news .alert {"+
     "    border-color: #304251;"+
@@ -292,7 +288,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* New Repo */"+
     ""+
     ".outline-box-highlighted {"+
     "    background-color: #1a2632;"+
@@ -508,7 +503,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Repo Blame */"+
     ""+
     ".blame-commit-title,"+
     ".blame-commit-title .message {"+
@@ -526,7 +520,6 @@ var css = "body {"+
     ""+
     ""+
     ""+
-    "/* README Markdown Live */"+
     ""+
     ".readme .markdown-body,"+
     ".readme .plain {"+
@@ -613,7 +606,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Code syntax Highlighting */"+
     ""+
     ".pl-pds,"+
     ".pl-s,"+
@@ -650,7 +642,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Markdown Standalone */"+
     ""+
     ".markdown-body h2 {"+
     "    border-color: #304251;"+
@@ -665,7 +656,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Repo Code Tab Live | Markdown */"+
     ""+
     ".file {"+
     "    border-color: #304251;"+
@@ -700,7 +690,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Repo | Issues Tab */"+
     ""+
     ".table-list-header {"+
     "    background-color: #1a2632;"+
@@ -770,7 +759,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Dropdown Menu */"+
     ""+
     ".select-menu-modal {"+
     "    border-color: #304251;"+
@@ -814,7 +802,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Repo | Pull Request Tab */"+
     ""+
     ".border-left,"+
     ".border-right,"+
@@ -828,7 +815,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Repo Issues & Pull Request Convo */"+
     ""+
     ".gh-header-edit .edit-issue-title,"+
     ".gh-header-edit .edit-issue-title:focus {"+
@@ -1085,7 +1071,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Site | Issue Tab */"+
     ""+
     ".Box-row--focus-gray.navigation-focus {"+
     "    background-color: #1a2632;"+
@@ -1104,7 +1089,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Code Tab | Branches */"+
     ""+
     ".branch-summary,"+
     ".branch-group-heading+.branch-summary,"+
@@ -1141,7 +1125,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* File Changed | Compare | Reviews */"+
     ""+
     ".diffbar {"+
     "    background-color: #1a2632;"+
@@ -1218,7 +1201,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Release & Tags */"+
     ""+
     ".release-timeline {"+
     "    border-color: #304251;"+
@@ -1260,7 +1242,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Commits Tab */"+
     ""+
     ".commit-group-title .octicon-git-commit {"+
     "    margin-right: 17px;"+
@@ -1273,7 +1254,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Nav */"+
     ""+
     ".subnav-item {"+
     "    border-color: #304251;"+
@@ -1285,7 +1265,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Repo Wiki Tab */"+
     ""+
     ".blankslate {"+
     "    background-color: #151f29;"+
@@ -1310,7 +1289,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Repo Project Tab */"+
     ""+
     ".border {"+
     "    border-color: #304251 !important;"+
@@ -1337,7 +1315,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Repo Pulse Tab */"+
     ""+
     ".pulse-graph:first-child {"+
     "    border-color: #304251;"+
@@ -1384,7 +1361,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Repo Graph | Contributors */"+
     ""+
     ".tint-box {"+
     "    background: #1a2632;"+
@@ -1407,7 +1383,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Repo Graph | Punch Card */"+
     ""+
     ".day-name {"+
     "    fill: #8899a6;"+
@@ -1437,7 +1412,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Repo Graph | Traffic */"+
     ""+
     "table.capped-list td {"+
     "    ;"+
@@ -1453,7 +1427,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Repo Graph | Code Frequency */"+
     ""+
     ".code-frequency .addition {"+
     "    fill: #52bd58;"+
@@ -1478,7 +1451,6 @@ var css = "body {"+
     "}"+
     ""+
     ""+
-    "/* Repo Settings Tab */"+
     ""+
     ".menu {"+
     "    margin-bottom: 15px;"+
