@@ -9,4 +9,4 @@ Clone this project, go to chrome extensions, enable developer mode, and upload t
 for github only, so you can modify it if you like for other sites, or keep altering the stylesheet.
 
 
-![alt tag](https://github.com/Deg5112/php-storm-theme-chrome-extension/master/demo-image.png)
+![alt tag](/demo-image.png)
