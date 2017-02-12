@@ -2124,7 +2124,7 @@ var css = "body {"+
     "::-webkit-scrollbar-thumb, ::-webkit-scrollbar-track{"+
     "background-color: #3c3f41 !important"+
 "}"+
-".Box-row, article, h3,repo_listing, .boxed-group-inner, .filter-repos, .private .mini-repo-list-item, .js-navigation-item, .Box-header,.dashboard-notice.js-notice, .file-header, .commit-tease, .commit-tease-contributors, .selected-navigation-item, .select-menu-button {"+
+".Box-row, article, h3,repo_listing, .d-block, .boxed-group-inner, .filter-repos, .private .mini-repo-list-item, .js-navigation-item, .Box-header,.dashboard-notice.js-notice, .file-header, .commit-tease, .commit-tease-contributors, .selected-navigation-item, .select-menu-button {"+
     "background-color: #313335 !important;"+
 "}"+
 ".copyable-terminal {"+
