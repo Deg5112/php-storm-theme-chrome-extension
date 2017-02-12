@@ -7,3 +7,6 @@ stylesheet to mirror phpstorm. This is a work in progress but good enough to use
 
 Clone this project, go to chrome extensions, enable developer mode, and upload the project. The URL in manifest.json is 
 for github only, so you can modify it if you like for other sites, or keep altering the stylesheet.
+
+
+![alt tag](https://github.com/Deg5112/php-storm-theme-chrome-extension/master/demo-image.png)
